@@ -1,0 +1,9 @@
+export { default as LandingHero } from './LandingHero';
+export { default as PoweredBy } from './PoweredBy';
+export { default as Discover } from './Discover';
+export { default as Borrowing } from './Borrowing';
+export { default as GetPaid } from './GetPaid';
+export { default as JoinOurComunity } from './JoinOurComunity';
+export { default as BondingDeflation } from './BondingDeflation';
+export { default as Prescale } from './Prescale';
+export { default as SyntheticArchitecture } from './SyntheticArchitecture';

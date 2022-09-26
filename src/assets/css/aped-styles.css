@@ -1,0 +1,52 @@
+.aped-button {
+  /* width: 185px; */
+  height: 58px;
+  padding-left: 30px;
+  padding-right: 30px;
+  background: linear-gradient(90deg, #fd02bd -9.8%, #5600c4 100%);
+  border-radius: 8px;
+  font-size: 18px;
+  box-shadow: none;
+}
+
+.active-link {
+  font-family: 'BarlowExtraBold';
+  background: linear-gradient(90deg, #fd02bd -9.8%, #5600c4 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+
+.gradient-text {
+  background: linear-gradient(94.95deg, #fe00c0 43.45%, #1dc6eb 100.38%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+
+.solid-text {
+  background: linear-gradient(90deg, #fd02bd -9.8%, #5600c4 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+
+h1 {
+  color: #000000;
+}
+.container--waitlistapi {
+  margin: 0 auto;
+  background-color: #cecaf3;
+}
+.button--waitlistapi {
+  background-color: #000000;
+}
+.statusTextContainer--waitlistapi {
+  color: #000000;
+}
+.referralLinkField--text {
+  color: #000000;
+}
